@@ -39,7 +39,3 @@ else:
 
 
 
-if((computer-you)==-1 or (computer-you)==2):
-    print("Yiu Lose")
-else:
-    print("You Win!")
