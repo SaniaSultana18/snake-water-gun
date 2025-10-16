@@ -36,13 +36,6 @@ Random number generation (random module)
 
 Loops and user input
 
-📁 Project Structure
-snake_water_gun/
-│
-├── snake_water_gun.py     # Main game file
-├── README.md              # Project documentation
-└── (optional) requirements.txt
-
 💡 Future Enhancements
 
 Add score tracking
